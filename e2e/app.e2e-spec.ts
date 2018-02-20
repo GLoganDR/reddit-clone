@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('core-civic App', () => {
+describe('reddit-clone App', () => {
   let page: AppPage;
 
   beforeEach(() => {

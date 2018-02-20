@@ -102,8 +102,8 @@
       {
         "call-signature": "nospace",
         "index-signature": "nospace",
-        "parameter": "nospace",
-        "property-declaration": "nospace",
+        "parameter": "onespace",
+        "property-declaration": "onespace",
         "variable-declaration": "nospace"
       }
     ],
